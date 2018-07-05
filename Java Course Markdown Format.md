@@ -2,8 +2,8 @@
 
 
 **Course**<br />
-__ index.yaml<br />
-__ **Chapters**
+&nbsp;&nbsp;index.yaml<br />
+&nbsp;&nbsp;**Chapters**
 
 **Chapter Name (000_chaptername)**
 
