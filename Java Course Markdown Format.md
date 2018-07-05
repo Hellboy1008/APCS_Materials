@@ -3,17 +3,12 @@
 
 **Course**<br />
 &nbsp;&nbsp;index.yaml<br />
-&nbsp;&nbsp;**Chapters**
-
-**Chapter Name (000_chaptername)**
-
-                 		**Sequentials**
-
-**Sequential Name (000_sequentialname)**
-
-index.yaml
-
-**Vertical Name (000_verticalname)**
+&nbsp;&nbsp;**Chapters**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;**Chapter Name (000_chaptername)**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sequentials**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sequential Name (000_sequentialname)**<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;index.yaml<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Vertical Name (000_verticalname)**<br />
 
 **Course:**
 
