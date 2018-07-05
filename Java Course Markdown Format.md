@@ -90,11 +90,7 @@
 </table>
 
 
-** **
-
 **Chapter:**
-
-** **
 
 <table>
   <tr>
@@ -118,13 +114,7 @@
 </table>
 
 
-** **
-
-** **
-
 **Sequential:**
-
-** **
 
 <table>
   <tr>
@@ -148,11 +138,7 @@
 </table>
 
 
-** **
-
 **Vertical:**
-
-** **
 
 <table>
   <tr>
