@@ -1,14 +1,11 @@
 **Markdown Format**
 
- 
 
 **Course**
+⋅⋅*index.yaml
+⋅⋅* **Chapters**
 
-   	index.yaml
-
-**   	****Chapters**
-
-**          		****Chapter Name (000_chaptername)**
+**Chapter Name (000_chaptername)**
 
 **                 		Sequentials**
 
