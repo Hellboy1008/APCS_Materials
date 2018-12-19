@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=code
-comment0.target=java.lang.String\ encrypt(java.lang.String)
-comment1.params=code
-comment1.target=java.lang.String\ decrypt(java.lang.String)
-comment1.text=\n\ \ \ \ Explaining\ the\ code\:\ \n\n\ \ \ \ The\ code\ has\ 3\ different\ parts\ to\ it.\ First\ of\ all,\ english\ alphabets,\ symbols\ and\ numbers\ \n\ \ \ \ are\ converted\ into\ Japanese\ Hiragana.\ Then,\ it\ is\ converted\ to\ the\ english\ pronounciation\n\ \ \ \ for\ each\ of\ the\ Hiragana.\ Finally,\ the\ pronounciations\ are\ printed\ out\ by\ the\ program\ \n\ \ \ \ backwards\ with\ an\ extra\ number\ at\ the\ end.\ Additionally,\ some\ of\ the\ symbols\ are\ converted\ to\ other\ symbols.\ Decoding\ Table\ for\ \n\ \ \ \ my\ encryption\ is\ attached\ on\ Schoology.\n\n\ \ \ \ String\ methods\ Used\:\n\n\ \ \ \ 1.\ length()\ \n\ \ \ \ 2.\ charAt()\ \n\ \ \ \ 3.\ toLowerCase()\ \n\ \ \ \ 4.\ compareTo()\ \n\ \ \ \ 5.\ concat()\ \n\ \ \ \ 6.\ replaceAll()\ \n\ \ \ \ 7.\ contains()\ \n\ \ \ \ 8.\ substring()\ \n\ \ \ \ 9.\ indexOf()\ \n\ \ \ \ 10.\ equals()\ \n\n
-numComments=2
