@@ -1,2 +1,4 @@
-#ignore all class files
+# ignore all class files
 *.class
+# ignore DS_Store file
+.DS_Store 
